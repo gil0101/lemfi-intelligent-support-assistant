@@ -116,7 +116,7 @@ Le LLM devra déterminer quelle source utiliser pour chaque question et combiner
 **M2 Data Science — Aix-Marseille Université**
 
 * Gildas ADJAHOSSOU
-* Mamadou Diagne
+* Mamadou DIAGNE
 
 ## ⚠️ Avertissement
 
