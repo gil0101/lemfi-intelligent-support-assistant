@@ -1,0 +1,1530 @@
+{
+  "scraped_at": "2026-10-11T12:27:35Z",
+  "source": "https://support.lemfi.com/hc/en-us",
+  "total_categories": 10,
+  "total_sections": 40,
+  "total_articles": 169,
+  "articles": [
+    {
+      "id": 48456580349969,
+      "title": "How much LemFi Cash do I get when I join with a referral code?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/48456580349969-How-much-LemFi-Cash-do-I-get-when-I-join-with-a-referral-code",
+      "category": "Referral and Rewards",
+      "section": "Rewards",
+      "file_path": "Referral_and_Rewards\\Rewards\\How_much_LemFi_Cash_do_I_get_when_I_join_with_a_referral_code.md",
+      "updated_at": "2026-07-06T07:33:43Z"
+    },
+    {
+      "id": 48456100113169,
+      "title": "How do referrals work?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/48456100113169-How-do-referrals-work",
+      "category": "LemFi Cash & Referrals",
+      "section": "Referrals",
+      "file_path": "LemFi_Cash_&_Referrals\\Referrals\\How_do_referrals_work.md",
+      "updated_at": "2026-07-06T07:35:49Z"
+    },
+    {
+      "id": 48387935036689,
+      "title": "What is the LemFi Cash Balance?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/48387935036689-What-is-the-LemFi-Cash-Balance",
+      "category": "LemFi Cash & Referrals",
+      "section": "LemFi Cash",
+      "file_path": "LemFi_Cash_&_Referrals\\LemFi_Cash\\What_is_the_LemFi_Cash_Balance.md",
+      "updated_at": "2026-10-06T14:58:26Z"
+    },
+    {
+      "id": 47333000105361,
+      "title": " How do I delete a beneficiary",
+      "url": "https://support.lemfi.com/hc/en-us/articles/47333000105361--How-do-I-delete-a-beneficiary",
+      "category": "Account and Profile",
+      "section": "Manage Your Account",
+      "file_path": "Account_and_Profile\\Manage_Your_Account\\How_do_I_delete_a_beneficiary.md",
+      "updated_at": "2026-06-06T11:54:26Z"
+    },
+    {
+      "id": 46568434133393,
+      "title": "Change your date of birth",
+      "url": "https://support.lemfi.com/hc/en-us/articles/46568434133393-Change-your-date-of-birth",
+      "category": "Account and Profile",
+      "section": "Manage Your Account",
+      "file_path": "Account_and_Profile\\Manage_Your_Account\\Change_your_date_of_birth.md",
+      "updated_at": "2026-07-28T17:49:44Z"
+    },
+    {
+      "id": 46568399566481,
+      "title": "Change your email address",
+      "url": "https://support.lemfi.com/hc/en-us/articles/46568399566481-Change-your-email-address",
+      "category": "Account and Profile",
+      "section": "Manage Your Account",
+      "file_path": "Account_and_Profile\\Manage_Your_Account\\Change_your_email_address.md",
+      "updated_at": "2026-10-07T16:52:54Z"
+    },
+    {
+      "id": 46568333708561,
+      "title": "Change your home address",
+      "url": "https://support.lemfi.com/hc/en-us/articles/46568333708561-Change-your-home-address",
+      "category": "Account and Profile",
+      "section": "Manage Your Account",
+      "file_path": "Account_and_Profile\\Manage_Your_Account\\Change_your_home_address.md",
+      "updated_at": "2026-09-11T01:22:23Z"
+    },
+    {
+      "id": 46568298132113,
+      "title": "Change your name",
+      "url": "https://support.lemfi.com/hc/en-us/articles/46568298132113-Change-your-name",
+      "category": "Account and Profile",
+      "section": "Manage Your Account",
+      "file_path": "Account_and_Profile\\Manage_Your_Account\\Change_your_name.md",
+      "updated_at": "2026-08-06T12:50:47Z"
+    },
+    {
+      "id": 46564864804241,
+      "title": "Change my phone number",
+      "url": "https://support.lemfi.com/hc/en-us/articles/46564864804241-Change-my-phone-number",
+      "category": "Account and Profile",
+      "section": "Manage Your Account",
+      "file_path": "Account_and_Profile\\Manage_Your_Account\\Change_my_phone_number.md",
+      "updated_at": "2026-09-28T06:27:09Z"
+    },
+    {
+      "id": 46131845370641,
+      "title": "I’m an existing customer, why am I not seeing the bonus rate?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/46131845370641-I-m-an-existing-customer-why-am-I-not-seeing-the-bonus-rate",
+      "category": "Savings",
+      "section": "Bonus Rate",
+      "file_path": "Savings\\Bonus_Rate\\Im_an_existing_customer,_why_am_I_not_seeing_the_bonus_rate.md",
+      "updated_at": "2026-04-27T13:12:25Z"
+    },
+    {
+      "id": 46131790886161,
+      "title": "What happens to my rate after 6 months?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/46131790886161-What-happens-to-my-rate-after-6-months",
+      "category": "Savings",
+      "section": "Bonus Rate",
+      "file_path": "Savings\\Bonus_Rate\\What_happens_to_my_rate_after_6_months.md",
+      "updated_at": "2026-04-27T13:10:52Z"
+    },
+    {
+      "id": 46131765913489,
+      "title": "How does the 6 month bonus rate work?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/46131765913489-How-does-the-6-month-bonus-rate-work",
+      "category": "Savings",
+      "section": "Bonus Rate",
+      "file_path": "Savings\\Bonus_Rate\\How_does_the_6_month_bonus_rate_work.md",
+      "updated_at": "2026-04-27T13:10:11Z"
+    },
+    {
+      "id": 45951102386705,
+      "title": "Credit bureau and Credit score",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45951102386705-Credit-bureau-and-Credit-score",
+      "category": "Credit",
+      "section": "Credit Monitor",
+      "file_path": "Credit\\Credit_Monitor\\Credit_bureau_and_Credit_score.md",
+      "updated_at": "2026-07-17T15:56:27Z"
+    },
+    {
+      "id": 45951036736785,
+      "title": "Why can't I view my credit files?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45951036736785-Why-can-t-I-view-my-credit-files",
+      "category": "Credit",
+      "section": "Credit Monitor",
+      "file_path": "Credit\\Credit_Monitor\\Why_cant_I_view_my_credit_files.md",
+      "updated_at": "2026-07-26T16:23:20Z"
+    },
+    {
+      "id": 45951006571025,
+      "title": "Signing up for Credit Monitor",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45951006571025-Signing-up-for-Credit-Monitor",
+      "category": "Credit",
+      "section": "Credit Monitor",
+      "file_path": "Credit\\Credit_Monitor\\Signing_up_for_Credit_Monitor.md",
+      "updated_at": "2026-04-21T12:18:31Z"
+    },
+    {
+      "id": 45946634351505,
+      "title": "Why can’t I apply for credit?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45946634351505-Why-can-t-I-apply-for-credit",
+      "category": "Credit",
+      "section": "Using credit",
+      "file_path": "Credit\\Using_credit\\Why_cant_I_apply_for_credit.md",
+      "updated_at": "2026-04-21T10:28:50Z"
+    },
+    {
+      "id": 45946538085649,
+      "title": "Report an issue with a credit transaction",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45946538085649-Report-an-issue-with-a-credit-transaction",
+      "category": "Credit",
+      "section": "Issues & support",
+      "file_path": "Credit\\Issues_&_support\\Report_an_issue_with_a_credit_transaction.md",
+      "updated_at": "2026-07-16T04:22:17Z"
+    },
+    {
+      "id": 45946401380753,
+      "title": "How do I manage my card (freeze, security)?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45946401380753-How-do-I-manage-my-card-freeze-security",
+      "category": "Credit",
+      "section": "Card management",
+      "file_path": "Credit\\Card_management\\How_do_I_manage_my_card_(freeze,_security).md",
+      "updated_at": "2026-04-21T10:23:06Z"
+    },
+    {
+      "id": 45946381724945,
+      "title": "How do I use my virtual card?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45946381724945-How-do-I-use-my-virtual-card",
+      "category": "Credit",
+      "section": "Card management",
+      "file_path": "Credit\\Card_management\\How_do_I_use_my_virtual_card.md",
+      "updated_at": "2026-07-22T18:43:08Z"
+    },
+    {
+      "id": 45946287165841,
+      "title": "What happens if I miss a payment?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45946287165841-What-happens-if-I-miss-a-payment",
+      "category": "Credit",
+      "section": "Repayments & plans",
+      "file_path": "Credit\\Repayments_&_plans\\What_happens_if_I_miss_a_payment.md",
+      "updated_at": "2026-04-21T10:19:07Z"
+    },
+    {
+      "id": 45946222124561,
+      "title": "Can I repay early?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45946222124561-Can-I-repay-early",
+      "category": "Credit",
+      "section": "Repayments & plans",
+      "file_path": "Credit\\Repayments_&_plans\\Can_I_repay_early.md",
+      "updated_at": "2026-04-21T10:17:10Z"
+    },
+    {
+      "id": 45946162656017,
+      "title": "How do repayments work on LemFi credit?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45946162656017-How-do-repayments-work-on-LemFi-credit",
+      "category": "Credit",
+      "section": "Repayments & plans",
+      "file_path": "Credit\\Repayments_&_plans\\How_do_repayments_work_on_LemFi_credit.md",
+      "updated_at": "2026-05-24T01:01:22Z"
+    },
+    {
+      "id": 45946142776849,
+      "title": "What is Send Now, Pay Later?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45946142776849-What-is-Send-Now-Pay-Later",
+      "category": "Credit",
+      "section": "Using credit",
+      "file_path": "Credit\\Using_credit\\What_is_Send_Now,_Pay_Later.md",
+      "updated_at": "2026-04-21T10:15:14Z"
+    },
+    {
+      "id": 45946010046481,
+      "title": "How do I apply for LemFi Credit?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45946010046481-How-do-I-apply-for-LemFi-Credit",
+      "category": "Credit",
+      "section": "Get started",
+      "file_path": "Credit\\Get_started\\How_do_I_apply_for_LemFi_Credit.md",
+      "updated_at": "2026-06-16T05:42:25Z"
+    },
+    {
+      "id": 45945994129809,
+      "title": "Who can apply for LemFi Credit?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45945994129809-Who-can-apply-for-LemFi-Credit",
+      "category": "Credit",
+      "section": "Get started",
+      "file_path": "Credit\\Get_started\\Who_can_apply_for_LemFi_Credit.md",
+      "updated_at": "2026-04-21T10:11:58Z"
+    },
+    {
+      "id": 45945956460177,
+      "title": "What is LemFi Credit?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45945956460177-What-is-LemFi-Credit",
+      "category": "Credit",
+      "section": "Get started",
+      "file_path": "Credit\\Get_started\\What_is_LemFi_Credit.md",
+      "updated_at": "2026-04-21T10:11:04Z"
+    },
+    {
+      "id": 45807410166673,
+      "title": "Refunds and conditions for eSIM",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45807410166673-Refunds-and-conditions-for-eSIM",
+      "category": "eSIM",
+      "section": "Refunds",
+      "file_path": "eSIM\\Refunds\\Refunds_and_conditions_for_eSIM.md",
+      "updated_at": "2026-04-16T12:56:25Z"
+    },
+    {
+      "id": 45807369472401,
+      "title": "No service / activation issues  on eSIM",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45807369472401-No-service-activation-issues-on-eSIM",
+      "category": "eSIM",
+      "section": "Issues",
+      "file_path": "eSIM\\Issues\\No_service_activation_issues_on_eSIM.md",
+      "updated_at": "2026-04-16T12:55:15Z"
+    },
+    {
+      "id": 45807275088785,
+      "title": "My eSIM is not working",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45807275088785-My-eSIM-is-not-working",
+      "category": "eSIM",
+      "section": "Issues",
+      "file_path": "eSIM\\Issues\\My_eSIM_is_not_working.md",
+      "updated_at": "2026-04-16T12:53:15Z"
+    },
+    {
+      "id": 45807096109841,
+      "title": "Data usage and plans for eSIM",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45807096109841-Data-usage-and-plans-for-eSIM",
+      "category": "eSIM",
+      "section": "Usage",
+      "file_path": "eSIM\\Usage\\Data_usage_and_plans_for_eSIM.md",
+      "updated_at": "2026-04-22T15:05:59Z"
+    },
+    {
+      "id": 45806994973713,
+      "title": "How do I buy and activate an eSIM plan?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45806994973713-How-do-I-buy-and-activate-an-eSIM-plan",
+      "category": "eSIM",
+      "section": "Purchase & Setup",
+      "file_path": "eSIM\\Purchase_&_Setup\\How_do_I_buy_and_activate_an_eSIM_plan.md",
+      "updated_at": "2026-06-21T12:51:54Z"
+    },
+    {
+      "id": 45806887867153,
+      "title": "What is LemFi eSIM?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45806887867153-What-is-LemFi-eSIM",
+      "category": "eSIM",
+      "section": "Get Started",
+      "file_path": "eSIM\\Get_Started\\What_is_LemFi_eSIM.md",
+      "updated_at": "2026-06-02T08:31:10Z"
+    },
+    {
+      "id": 45805991022737,
+      "title": "Weekend Downtimes",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45805991022737-Weekend-Downtimes",
+      "category": "Send Money",
+      "section": "Sending Money Across Regions",
+      "file_path": "Send_Money\\Sending_Money_Across_Regions\\Weekend_Downtimes.md",
+      "updated_at": "2026-05-10T15:23:50Z"
+    },
+    {
+      "id": 45805995881745,
+      "title": "U.S.A",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45805995881745-U-S-A",
+      "category": "Send Money",
+      "section": "Sending Money Across Regions",
+      "file_path": "Send_Money\\Sending_Money_Across_Regions\\U.S.A.md",
+      "updated_at": "2026-08-21T23:51:38Z"
+    },
+    {
+      "id": 45805909482385,
+      "title": "Nigeria",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45805909482385-Nigeria",
+      "category": "Send Money",
+      "section": "Sending Money Across Regions",
+      "file_path": "Send_Money\\Sending_Money_Across_Regions\\Nigeria.md",
+      "updated_at": "2026-07-22T09:18:34Z"
+    },
+    {
+      "id": 45804887486481,
+      "title": "Bangladesh ",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45804887486481-Bangladesh",
+      "category": "Send Money",
+      "section": "Sending Money Across Regions",
+      "file_path": "Send_Money\\Sending_Money_Across_Regions\\Bangladesh.md",
+      "updated_at": "2026-04-16T11:52:56Z"
+    },
+    {
+      "id": 45804790561809,
+      "title": "China",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45804790561809-China",
+      "category": "Send Money",
+      "section": "Sending Money Across Regions",
+      "file_path": "Send_Money\\Sending_Money_Across_Regions\\China.md",
+      "updated_at": "2026-06-16T09:07:09Z"
+    },
+    {
+      "id": 45781768789649,
+      "title": "Can I delete my transaction history?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45781768789649-Can-I-delete-my-transaction-history",
+      "category": "Send Money",
+      "section": "Transactions & History",
+      "file_path": "Send_Money\\Transactions_&_History\\Can_I_delete_my_transaction_history.md",
+      "updated_at": "2026-04-22T14:01:49Z"
+    },
+    {
+      "id": 45781662661009,
+      "title": "Can I download a receipt or statement?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45781662661009-Can-I-download-a-receipt-or-statement",
+      "category": "Send Money",
+      "section": "Transactions & History",
+      "file_path": "Send_Money\\Transactions_&_History\\Can_I_download_a_receipt_or_statement.md",
+      "updated_at": "2026-05-29T20:18:52Z"
+    },
+    {
+      "id": 45781581686545,
+      "title": "How do I view my transactions?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45781581686545-How-do-I-view-my-transactions",
+      "category": "Send Money",
+      "section": "Transactions & History",
+      "file_path": "Send_Money\\Transactions_&_History\\How_do_I_view_my_transactions.md",
+      "updated_at": "2026-04-15T18:00:35Z"
+    },
+    {
+      "id": 45780650687121,
+      "title": "Transfer times by country",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45780650687121-Transfer-times-by-country",
+      "category": "Send Money",
+      "section": "Transfer details",
+      "file_path": "Send_Money\\Transfer_details\\Transfer_times_by_country.md",
+      "updated_at": "2026-07-27T18:39:18Z"
+    },
+    {
+      "id": 45780629399185,
+      "title": "Are there country-specific rules or limits?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45780629399185-Are-there-country-specific-rules-or-limits",
+      "category": "Send Money",
+      "section": "Transfer details",
+      "file_path": "Send_Money\\Transfer_details\\Are_there_country_specific_rules_or_limits.md",
+      "updated_at": "2026-04-15T17:17:08Z"
+    },
+    {
+      "id": 45780569805841,
+      "title": "Can I get a receipt?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45780569805841-Can-I-get-a-receipt",
+      "category": "Add Money",
+      "section": "Get Started",
+      "file_path": "Add_Money\\Get_Started\\Can_I_get_a_receipt.md",
+      "updated_at": "2026-09-20T18:10:50Z"
+    },
+    {
+      "id": 45775033001617,
+      "title": "What are my wallet limits?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45775033001617-What-are-my-wallet-limits",
+      "category": "Add Money",
+      "section": "Limits & Issues",
+      "file_path": "Add_Money\\Limits_&_Issues\\What_are_my_wallet_limits.md",
+      "updated_at": "2026-04-15T14:26:46Z"
+    },
+    {
+      "id": 45774551769361,
+      "title": "Why is my deposit taking time?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45774551769361-Why-is-my-deposit-taking-time",
+      "category": "Add Money",
+      "section": "Limits & Issues",
+      "file_path": "Add_Money\\Limits_&_Issues\\Why_is_my_deposit_taking_time.md",
+      "updated_at": "2026-04-15T14:15:29Z"
+    },
+    {
+      "id": 45770940223121,
+      "title": "How do I block my account?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45770940223121-How-do-I-block-my-account",
+      "category": "Login and Security",
+      "section": "Safety and Fraud",
+      "file_path": "Login_and_Security\\Safety_and_Fraud\\How_do_I_block_my_account.md",
+      "updated_at": "2026-10-05T17:48:32Z"
+    },
+    {
+      "id": 45769837627921,
+      "title": "Can LemFi process refunds for 3rd-Party Companies?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45769837627921-Can-LemFi-process-refunds-for-3rd-Party-Companies",
+      "category": "Login and Security",
+      "section": "Safety and Fraud",
+      "file_path": "Login_and_Security\\Safety_and_Fraud\\Can_LemFi_process_refunds_for_3rd_Party_Companies.md",
+      "updated_at": "2026-04-15T12:23:39Z"
+    },
+    {
+      "id": 45769581403921,
+      "title": "Can I use LemFi without verification?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45769581403921-Can-I-use-LemFi-without-verification",
+      "category": "Account and Profile",
+      "section": "Get Started",
+      "file_path": "Account_and_Profile\\Get_Started\\Can_I_use_LemFi_without_verification.md",
+      "updated_at": "2026-10-10T12:51:15Z"
+    },
+    {
+      "id": 45769471083665,
+      "title": "How do I raise a complaint?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45769471083665-How-do-I-raise-a-complaint",
+      "category": "Account and Profile",
+      "section": "Contact Support",
+      "file_path": "Account_and_Profile\\Contact_Support\\How_do_I_raise_a_complaint.md",
+      "updated_at": "2026-10-10T18:10:17Z"
+    },
+    {
+      "id": 45769365539985,
+      "title": "What happens when a customer passes away?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45769365539985-What-happens-when-a-customer-passes-away",
+      "category": "Account and Profile",
+      "section": "Sensitive situations",
+      "file_path": "Account_and_Profile\\Sensitive_situations\\What_happens_when_a_customer_passes_away.md",
+      "updated_at": "2026-04-15T12:11:22Z"
+    },
+    {
+      "id": 45742667293073,
+      "title": "Create or Change my transaction PIN",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45742667293073-Create-or-Change-my-transaction-PIN",
+      "category": "Login and Security",
+      "section": "Security Settings",
+      "file_path": "Login_and_Security\\Security_Settings\\Create_or_Change_my_transaction_PIN.md",
+      "updated_at": "2026-09-22T12:16:33Z"
+    },
+    {
+      "id": 45742611760529,
+      "title": "How do I set up biometric login?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45742611760529-How-do-I-set-up-biometric-login",
+      "category": "Login and Security",
+      "section": "Access and Authentication",
+      "file_path": "Login_and_Security\\Access_and_Authentication\\How_do_I_set_up_biometric_login.md",
+      "updated_at": "2026-07-02T17:25:40Z"
+    },
+    {
+      "id": 45742573206289,
+      "title": "How do I set up biometric login?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45742573206289-How-do-I-set-up-biometric-login",
+      "category": "Login and Security",
+      "section": "Access and Authentication",
+      "file_path": "Login_and_Security\\Access_and_Authentication\\How_do_I_set_up_biometric_login_1.md",
+      "updated_at": "2026-06-10T13:09:18Z"
+    },
+    {
+      "id": 45742480828817,
+      "title": "Why does the app keep logging me out?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45742480828817-Why-does-the-app-keep-logging-me-out",
+      "category": "Login and Security",
+      "section": "Login Issues",
+      "file_path": "Login_and_Security\\Login_Issues\\Why_does_the_app_keep_logging_me_out.md",
+      "updated_at": "2026-10-03T17:08:32Z"
+    },
+    {
+      "id": 45742425363601,
+      "title": "I’m trying to log in on a new device",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45742425363601-I-m-trying-to-log-in-on-a-new-device",
+      "category": "Login and Security",
+      "section": "Login Issues",
+      "file_path": "Login_and_Security\\Login_Issues\\Im_trying_to_log_in_on_a_new_device.md",
+      "updated_at": "2026-09-24T07:43:46Z"
+    },
+    {
+      "id": 45742378926097,
+      "title": "I didn’t receive an OTP",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45742378926097-I-didn-t-receive-an-OTP",
+      "category": "Login and Security",
+      "section": "Login Issues",
+      "file_path": "Login_and_Security\\Login_Issues\\I_didnt_receive_an_OTP.md",
+      "updated_at": "2026-10-03T17:19:32Z"
+    },
+    {
+      "id": 45742240068369,
+      "title": "I forgot my password",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45742240068369-I-forgot-my-password",
+      "category": "Login and Security",
+      "section": "Login Issues",
+      "file_path": "Login_and_Security\\Login_Issues\\I_forgot_my_password.md",
+      "updated_at": "2026-09-21T05:44:40Z"
+    },
+    {
+      "id": 45742225517073,
+      "title": "I can’t log in to my account",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45742225517073-I-can-t-log-in-to-my-account",
+      "category": "Login and Security",
+      "section": "Login Issues",
+      "file_path": "Login_and_Security\\Login_Issues\\I_cant_log_in_to_my_account.md",
+      "updated_at": "2026-10-09T08:48:44Z"
+    },
+    {
+      "id": 45741664564369,
+      "title": "What happens to my balance if my account is closed?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45741664564369-What-happens-to-my-balance-if-my-account-is-closed",
+      "category": "Account and Profile",
+      "section": "Close or Restrict Account",
+      "file_path": "Account_and_Profile\\Close_or_Restrict_Account\\What_happens_to_my_balance_if_my_account_is_closed.md",
+      "updated_at": "2026-04-14T15:56:41Z"
+    },
+    {
+      "id": 45741654199697,
+      "title": "Can I reopen my account?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45741654199697-Can-I-reopen-my-account",
+      "category": "Account and Profile",
+      "section": "Close or Restrict Account",
+      "file_path": "Account_and_Profile\\Close_or_Restrict_Account\\Can_I_reopen_my_account.md",
+      "updated_at": "2026-07-21T19:33:31Z"
+    },
+    {
+      "id": 45741550563217,
+      "title": "Why was my account closed?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45741550563217-Why-was-my-account-closed",
+      "category": "Account and Profile",
+      "section": "Close or Restrict Account",
+      "file_path": "Account_and_Profile\\Close_or_Restrict_Account\\Why_was_my_account_closed.md",
+      "updated_at": "2026-08-12T10:03:32Z"
+    },
+    {
+      "id": 45741516157073,
+      "title": "How do I close my account?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45741516157073-How-do-I-close-my-account",
+      "category": "Account and Profile",
+      "section": "Close or Restrict Account",
+      "file_path": "Account_and_Profile\\Close_or_Restrict_Account\\How_do_I_close_my_account.md",
+      "updated_at": "2026-10-04T05:07:18Z"
+    },
+    {
+      "id": 45740648338193,
+      "title": "Change language settings",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45740648338193-Change-language-settings",
+      "category": "Account and Profile",
+      "section": "Manage Your Account",
+      "file_path": "Account_and_Profile\\Manage_Your_Account\\Change_language_settings.md",
+      "updated_at": "2026-04-14T15:25:47Z"
+    },
+    {
+      "id": 45740516737425,
+      "title": "Turn notifications on or off",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45740516737425-Turn-notifications-on-or-off",
+      "category": "Account and Profile",
+      "section": "Manage Your Account",
+      "file_path": "Account_and_Profile\\Manage_Your_Account\\Turn_notifications_on_or_off.md",
+      "updated_at": "2026-04-14T15:23:20Z"
+    },
+    {
+      "id": 45740443042577,
+      "title": "Reset my Password or Transaction PIN",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45740443042577-Reset-my-Password-or-Transaction-PIN",
+      "category": "Account and Profile",
+      "section": "Manage Your Account",
+      "file_path": "Account_and_Profile\\Manage_Your_Account\\Reset_my_Password_or_Transaction_PIN.md",
+      "updated_at": "2026-09-29T23:51:23Z"
+    },
+    {
+      "id": 42301471902225,
+      "title": "Understanding Wallets",
+      "url": "https://support.lemfi.com/hc/en-us/articles/42301471902225-Understanding-Wallets",
+      "category": "Add Money",
+      "section": "Get Started",
+      "file_path": "Add_Money\\Get_Started\\Understanding_Wallets.md",
+      "updated_at": "2026-04-15T13:58:22Z"
+    },
+    {
+      "id": 41600995922577,
+      "title": "What is a global account?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41600995922577-What-is-a-global-account",
+      "category": "Global Account",
+      "section": "Get started",
+      "file_path": "Global_Account\\Get_started\\What_is_a_global_account.md",
+      "updated_at": "2026-04-16T11:15:06Z"
+    },
+    {
+      "id": 41539723831697,
+      "title": "How is interest calculated?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41539723831697-How-is-interest-calculated",
+      "category": "Savings",
+      "section": "Interest, fees & safety",
+      "file_path": "Savings\\Interest,_fees_&_safety\\How_is_interest_calculated.md",
+      "updated_at": "2026-06-30T13:09:11Z"
+    },
+    {
+      "id": 41539629616529,
+      "title": "Add or withdraw money",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41539629616529-Add-or-withdraw-money",
+      "category": "Savings",
+      "section": "Manage savings",
+      "file_path": "Savings\\Manage_savings\\Add_or_withdraw_money.md",
+      "updated_at": "2026-07-08T15:25:53Z"
+    },
+    {
+      "id": 41539404829585,
+      "title": "What is a LemFi Savings Account?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41539404829585-What-is-a-LemFi-Savings-Account",
+      "category": "Savings",
+      "section": "Get started",
+      "file_path": "Savings\\Get_started\\What_is_a_LemFi_Savings_Account.md",
+      "updated_at": "2026-04-30T14:19:16Z"
+    },
+    {
+      "id": 41474233148945,
+      "title": "What Are LemFi Rewards?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41474233148945-What-Are-LemFi-Rewards",
+      "category": "Referral and Rewards",
+      "section": "Rewards",
+      "file_path": "Referral_and_Rewards\\Rewards\\What_Are_LemFi_Rewards.md",
+      "updated_at": "2025-12-01T13:19:57Z"
+    },
+    {
+      "id": 38495631785105,
+      "title": "Support for Vulnerable Customers",
+      "url": "https://support.lemfi.com/hc/en-us/articles/38495631785105-Support-for-Vulnerable-Customers",
+      "category": "Account and Profile",
+      "section": "Sensitive situations",
+      "file_path": "Account_and_Profile\\Sensitive_situations\\Support_for_Vulnerable_Customers.md",
+      "updated_at": "2026-04-15T12:09:55Z"
+    },
+    {
+      "id": 28194043968785,
+      "title": "How does the referral program work?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/28194043968785-How-does-the-referral-program-work",
+      "category": "Referral and Rewards",
+      "section": "Referrals",
+      "file_path": "Referral_and_Rewards\\Referrals\\How_does_the_referral_program_work.md",
+      "updated_at": "2026-09-10T07:17:14Z"
+    },
+    {
+      "id": 15657831525777,
+      "title": "How do I send money?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/15657831525777-How-do-I-send-money",
+      "category": "Send Money",
+      "section": "Get Started",
+      "file_path": "Send_Money\\Get_Started\\How_do_I_send_money.md",
+      "updated_at": "2026-09-29T10:27:10Z"
+    },
+    {
+      "id": 4420272430481,
+      "title": "What is LemFi?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/4420272430481-What-is-LemFi",
+      "category": "Account and Profile",
+      "section": "Get Started",
+      "file_path": "Account_and_Profile\\Get_Started\\What_is_LemFi.md",
+      "updated_at": "2026-09-21T06:14:14Z"
+    },
+    {
+      "id": 4417249724049,
+      "title": "Where is my money/transfer?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/4417249724049-Where-is-my-money-transfer",
+      "category": "Send Money",
+      "section": "Transfer Issues",
+      "file_path": "Send_Money\\Transfer_Issues\\Where_is_my_moneytransfer.md",
+      "updated_at": "2026-04-15T18:10:50Z"
+    },
+    {
+      "id": 48456413051025,
+      "title": "How much LemFi Cash do I earn for a referral?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/48456413051025-How-much-LemFi-Cash-do-I-earn-for-a-referral",
+      "category": "LemFi Cash & Referrals",
+      "section": "Referrals",
+      "file_path": "LemFi_Cash_&_Referrals\\Referrals\\How_much_LemFi_Cash_do_I_earn_for_a_referral.md",
+      "updated_at": "2026-07-06T07:35:49Z"
+    },
+    {
+      "id": 48388291803537,
+      "title": "How do I earn LemFi Cash?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/48388291803537-How-do-I-earn-LemFi-Cash",
+      "category": "LemFi Cash & Referrals",
+      "section": "LemFi Cash",
+      "file_path": "LemFi_Cash_&_Referrals\\LemFi_Cash\\How_do_I_earn_LemFi_Cash.md",
+      "updated_at": "2026-10-06T14:59:06Z"
+    },
+    {
+      "id": 45807165328401,
+      "title": "What are the limitations of eSIM?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45807165328401-What-are-the-limitations-of-eSIM",
+      "category": "eSIM",
+      "section": "Usage",
+      "file_path": "eSIM\\Usage\\What_are_the_limitations_of_eSIM.md",
+      "updated_at": "2026-04-22T15:05:59Z"
+    },
+    {
+      "id": 45807049484945,
+      "title": "How to install and activate eSIM",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45807049484945-How-to-install-and-activate-eSIM",
+      "category": "eSIM",
+      "section": "Purchase & Setup",
+      "file_path": "eSIM\\Purchase_&_Setup\\How_to_install_and_activate_eSIM.md",
+      "updated_at": "2026-04-22T15:05:53Z"
+    },
+    {
+      "id": 45806969929617,
+      "title": "Where can I use LemFi eSIM?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45806969929617-Where-can-I-use-LemFi-eSIM",
+      "category": "eSIM",
+      "section": "Get Started",
+      "file_path": "eSIM\\Get_Started\\Where_can_I_use_LemFi_eSIM.md",
+      "updated_at": "2026-06-21T12:52:04Z"
+    },
+    {
+      "id": 42301404080017,
+      "title": "Opening Multi-Currency Wallets",
+      "url": "https://support.lemfi.com/hc/en-us/articles/42301404080017-Opening-Multi-Currency-Wallets",
+      "category": "Add Money",
+      "section": "Get Started",
+      "file_path": "Add_Money\\Get_Started\\Opening_Multi_Currency_Wallets.md",
+      "updated_at": "2026-04-15T13:58:22Z"
+    },
+    {
+      "id": 41704233111057,
+      "title": "Benefits of LemFi Global Accounts",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41704233111057-Benefits-of-LemFi-Global-Accounts",
+      "category": "Global Account",
+      "section": "Get started",
+      "file_path": "Global_Account\\Get_started\\Benefits_of_LemFi_Global_Accounts.md",
+      "updated_at": "2026-04-16T11:44:50Z"
+    },
+    {
+      "id": 41540192246673,
+      "title": "How to download your savings account statement",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41540192246673-How-to-download-your-savings-account-statement",
+      "category": "Savings",
+      "section": "Interest, fees & safety",
+      "file_path": "Savings\\Interest,_fees_&_safety\\How_to_download_your_savings_account_statement.md",
+      "updated_at": "2026-04-15T18:54:21Z"
+    },
+    {
+      "id": 41540154567441,
+      "title": "Why is my withdrawal pending?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41540154567441-Why-is-my-withdrawal-pending",
+      "category": "Savings",
+      "section": "Manage savings",
+      "file_path": "Savings\\Manage_savings\\Why_is_my_withdrawal_pending.md",
+      "updated_at": "2026-04-15T18:53:55Z"
+    },
+    {
+      "id": 41539500512785,
+      "title": "Who can open a savings account?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41539500512785-Who-can-open-a-savings-account",
+      "category": "Savings",
+      "section": "Get started",
+      "file_path": "Savings\\Get_started\\Who_can_open_a_savings_account.md",
+      "updated_at": "2026-06-10T08:44:44Z"
+    },
+    {
+      "id": 41474373809553,
+      "title": "How do I earn Reward points?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41474373809553-How-do-I-earn-Reward-points",
+      "category": "Referral and Rewards",
+      "section": "Rewards",
+      "file_path": "Referral_and_Rewards\\Rewards\\How_do_I_earn_Reward_points.md",
+      "updated_at": "2026-05-14T07:51:59Z"
+    },
+    {
+      "id": 29372598441233,
+      "title": "What is Authorized Push Payment (APP) Fraud?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/29372598441233-What-is-Authorized-Push-Payment-APP-Fraud",
+      "category": "Login and Security",
+      "section": "Safety and Fraud",
+      "file_path": "Login_and_Security\\Safety_and_Fraud\\What_is_Authorized_Push_Payment_(APP)_Fraud.md",
+      "updated_at": "2025-12-15T17:19:42Z"
+    },
+    {
+      "id": 4417250101649,
+      "title": "How much do I earn as referral bonus?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/4417250101649-How-much-do-I-earn-as-referral-bonus",
+      "category": "Referral and Rewards",
+      "section": "Referrals",
+      "file_path": "Referral_and_Rewards\\Referrals\\How_much_do_I_earn_as_referral_bonus.md",
+      "updated_at": "2026-10-04T11:46:21Z"
+    },
+    {
+      "id": 4417242333329,
+      "title": "Where can I send money?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/4417242333329-Where-can-I-send-money",
+      "category": "Send Money",
+      "section": "Get Started",
+      "file_path": "Send_Money\\Get_Started\\Where_can_I_send_money.md",
+      "updated_at": "2026-06-26T19:21:22Z"
+    },
+    {
+      "id": 4417242038161,
+      "title": "Why is my transfer taking longer than expected?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/4417242038161-Why-is-my-transfer-taking-longer-than-expected",
+      "category": "Send Money",
+      "section": "Transfer Issues",
+      "file_path": "Send_Money\\Transfer_Issues\\Why_is_my_transfer_taking_longer_than_expected.md",
+      "updated_at": "2026-06-24T09:02:03Z"
+    },
+    {
+      "id": 48456450000273,
+      "title": "What can I see in my referral tracking?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/48456450000273-What-can-I-see-in-my-referral-tracking",
+      "category": "LemFi Cash & Referrals",
+      "section": "Referrals",
+      "file_path": "LemFi_Cash_&_Referrals\\Referrals\\What_can_I_see_in_my_referral_tracking.md",
+      "updated_at": "2026-07-06T07:35:49Z"
+    },
+    {
+      "id": 48388362909201,
+      "title": "How do I use my LemFi Cash?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/48388362909201-How-do-I-use-my-LemFi-Cash",
+      "category": "LemFi Cash & Referrals",
+      "section": "LemFi Cash",
+      "file_path": "LemFi_Cash_&_Referrals\\LemFi_Cash\\How_do_I_use_my_LemFi_Cash.md",
+      "updated_at": "2026-07-15T15:48:59Z"
+    },
+    {
+      "id": 45806912594449,
+      "title": "Is my device compatible for eSIM?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45806912594449-Is-my-device-compatible-for-eSIM",
+      "category": "eSIM",
+      "section": "Get Started",
+      "file_path": "eSIM\\Get_Started\\Is_my_device_compatible_for_eSIM.md",
+      "updated_at": "2026-04-22T15:05:44Z"
+    },
+    {
+      "id": 45782594953489,
+      "title": "Are there any fees on LemFi savings?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45782594953489-Are-there-any-fees-on-LemFi-savings",
+      "category": "Savings",
+      "section": "Interest, fees & safety",
+      "file_path": "Savings\\Interest,_fees_&_safety\\Are_there_any_fees_on_LemFi_savings.md",
+      "updated_at": "2026-04-15T18:54:21Z"
+    },
+    {
+      "id": 45782398990481,
+      "title": "Why is my savings account restricted or closed?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45782398990481-Why-is-my-savings-account-restricted-or-closed",
+      "category": "Savings",
+      "section": "Manage savings",
+      "file_path": "Savings\\Manage_savings\\Why_is_my_savings_account_restricted_or_closed.md",
+      "updated_at": "2026-04-15T18:53:55Z"
+    },
+    {
+      "id": 45782249186577,
+      "title": "How do I open a savings account?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45782249186577-How-do-I-open-a-savings-account",
+      "category": "Savings",
+      "section": "Get started",
+      "file_path": "Savings\\Get_started\\How_do_I_open_a_savings_account.md",
+      "updated_at": "2026-04-15T18:53:35Z"
+    },
+    {
+      "id": 45776117702417,
+      "title": "How will my recipient receive the money?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45776117702417-How-will-my-recipient-receive-the-money",
+      "category": "Send Money",
+      "section": "Get Started",
+      "file_path": "Send_Money\\Get_Started\\How_will_my_recipient_receive_the_money.md",
+      "updated_at": "2026-04-15T15:18:58Z"
+    },
+    {
+      "id": 42301349081489,
+      "title": "How do I add money?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/42301349081489-How-do-I-add-money",
+      "category": "Add Money",
+      "section": "Get Started",
+      "file_path": "Add_Money\\Get_Started\\How_do_I_add_money.md",
+      "updated_at": "2026-05-24T07:48:14Z"
+    },
+    {
+      "id": 41602057049873,
+      "title": "How do I open a Global account?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41602057049873-How-do-I-open-a-Global-account",
+      "category": "Global Account",
+      "section": "Get started",
+      "file_path": "Global_Account\\Get_started\\How_do_I_open_a_Global_account.md",
+      "updated_at": "2026-08-23T03:54:34Z"
+    },
+    {
+      "id": 41474593724305,
+      "title": "How do I track my points?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41474593724305-How-do-I-track-my-points",
+      "category": "Referral and Rewards",
+      "section": "Rewards",
+      "file_path": "Referral_and_Rewards\\Rewards\\How_do_I_track_my_points.md",
+      "updated_at": "2026-04-16T13:28:10Z"
+    },
+    {
+      "id": 38496826907281,
+      "title": "Contact LemFi in Vulnerable Situations",
+      "url": "https://support.lemfi.com/hc/en-us/articles/38496826907281-Contact-LemFi-in-Vulnerable-Situations",
+      "category": "Account and Profile",
+      "section": "Sensitive situations",
+      "file_path": "Account_and_Profile\\Sensitive_situations\\Contact_LemFi_in_Vulnerable_Situations.md",
+      "updated_at": "2026-08-11T13:37:38Z"
+    },
+    {
+      "id": 17768042900881,
+      "title": "Protecting Yourself From APP Fraud",
+      "url": "https://support.lemfi.com/hc/en-us/articles/17768042900881-Protecting-Yourself-From-APP-Fraud",
+      "category": "Login and Security",
+      "section": "Safety and Fraud",
+      "file_path": "Login_and_Security\\Safety_and_Fraud\\Protecting_Yourself_From_APP_Fraud.md",
+      "updated_at": "2026-05-19T13:38:51Z"
+    },
+    {
+      "id": 5685886555409,
+      "title": "My transfer is still \"In Progress\"",
+      "url": "https://support.lemfi.com/hc/en-us/articles/5685886555409-My-transfer-is-still-In-Progress",
+      "category": "Send Money",
+      "section": "Transfer Issues",
+      "file_path": "Send_Money\\Transfer_Issues\\My_transfer_is_still_In_Progress.md",
+      "updated_at": "2026-08-19T21:41:01Z"
+    },
+    {
+      "id": 4420293186705,
+      "title": "Services We Offer",
+      "url": "https://support.lemfi.com/hc/en-us/articles/4420293186705-Services-We-Offer",
+      "category": "Account and Profile",
+      "section": "Get Started",
+      "file_path": "Account_and_Profile\\Get_Started\\Services_We_Offer.md",
+      "updated_at": "2026-10-08T17:01:41Z"
+    },
+    {
+      "id": 48456483606929,
+      "title": "Why haven't I received my LemFi Cash after a referral?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/48456483606929-Why-haven-t-I-received-my-LemFi-Cash-after-a-referral",
+      "category": "LemFi Cash & Referrals",
+      "section": "Referrals",
+      "file_path": "LemFi_Cash_&_Referrals\\Referrals\\Why_havent_I_received_my_LemFi_Cash_after_a_referral.md",
+      "updated_at": "2026-07-06T07:35:49Z"
+    },
+    {
+      "id": 48388395835281,
+      "title": "Can I withdraw my LemFi Cash as Cash?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/48388395835281-Can-I-withdraw-my-LemFi-Cash-as-Cash",
+      "category": "LemFi Cash & Referrals",
+      "section": "LemFi Cash",
+      "file_path": "LemFi_Cash_&_Referrals\\LemFi_Cash\\Can_I_withdraw_my_LemFi_Cash_as_Cash.md",
+      "updated_at": "2026-07-06T10:42:23Z"
+    },
+    {
+      "id": 45776240326801,
+      "title": "Does my recipient need the app?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45776240326801-Does-my-recipient-need-the-app",
+      "category": "Send Money",
+      "section": "Get Started",
+      "file_path": "Send_Money\\Get_Started\\Does_my_recipient_need_the_app.md",
+      "updated_at": "2026-04-15T15:18:58Z"
+    },
+    {
+      "id": 45773019596817,
+      "title": "What payment methods can I use?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45773019596817-What-payment-methods-can-I-use",
+      "category": "Add Money",
+      "section": "Get Started",
+      "file_path": "Add_Money\\Get_Started\\What_payment_methods_can_I_use.md",
+      "updated_at": "2026-05-05T13:28:23Z"
+    },
+    {
+      "id": 41707919217169,
+      "title": "How do I verify my Global account?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41707919217169-How-do-I-verify-my-Global-account",
+      "category": "Global Account",
+      "section": "Get started",
+      "file_path": "Global_Account\\Get_started\\How_do_I_verify_my_Global_account.md",
+      "updated_at": "2026-06-08T19:23:47Z"
+    },
+    {
+      "id": 41540486154385,
+      "title": "Do I pay tax on interest?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41540486154385-Do-I-pay-tax-on-interest",
+      "category": "Savings",
+      "section": "Interest, fees & safety",
+      "file_path": "Savings\\Interest,_fees_&_safety\\Do_I_pay_tax_on_interest.md",
+      "updated_at": "2026-04-15T18:54:21Z"
+    },
+    {
+      "id": 41539973622673,
+      "title": "What is a Tracker Rate?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41539973622673-What-is-a-Tracker-Rate",
+      "category": "Savings",
+      "section": "Get started",
+      "file_path": "Savings\\Get_started\\What_is_a_Tracker_Rate.md",
+      "updated_at": "2026-04-15T18:53:35Z"
+    },
+    {
+      "id": 41474693244049,
+      "title": "How Are Points Calculated?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41474693244049-How-Are-Points-Calculated",
+      "category": "Referral and Rewards",
+      "section": "Rewards",
+      "file_path": "Referral_and_Rewards\\Rewards\\How_Are_Points_Calculated.md",
+      "updated_at": "2025-12-01T13:19:57Z"
+    },
+    {
+      "id": 41458018877329,
+      "title": "How do I sign up?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41458018877329-How-do-I-sign-up",
+      "category": "Account and Profile",
+      "section": "Get Started",
+      "file_path": "Account_and_Profile\\Get_Started\\How_do_I_sign_up.md",
+      "updated_at": "2026-09-29T21:15:14Z"
+    },
+    {
+      "id": 38998957674001,
+      "title": "Wellness & Bereavement Support (Supporting You During Challenging Moments)",
+      "url": "https://support.lemfi.com/hc/en-us/articles/38998957674001-Wellness-Bereavement-Support-Supporting-You-During-Challenging-Moments",
+      "category": "Account and Profile",
+      "section": "Sensitive situations",
+      "file_path": "Account_and_Profile\\Sensitive_situations\\Wellness_&_Bereavement_Support_(Supporting_You_During_Challenging_Moments).md",
+      "updated_at": "2026-04-15T12:08:15Z"
+    },
+    {
+      "id": 17768263996945,
+      "title": "How Do I Report Fraud or unauthorised activity?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/17768263996945-How-Do-I-Report-Fraud-or-unauthorised-activity",
+      "category": "Login and Security",
+      "section": "Safety and Fraud",
+      "file_path": "Login_and_Security\\Safety_and_Fraud\\How_Do_I_Report_Fraud_or_unauthorised_activity.md",
+      "updated_at": "2026-08-18T10:05:07Z"
+    },
+    {
+      "id": 4417250157969,
+      "title": "How do I track referrals?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/4417250157969-How-do-I-track-referrals",
+      "category": "Referral and Rewards",
+      "section": "Referrals",
+      "file_path": "Referral_and_Rewards\\Referrals\\How_do_I_track_referrals.md",
+      "updated_at": "2026-09-10T07:24:48Z"
+    },
+    {
+      "id": 4417235607825,
+      "title": "My recipient hasn’t received the money",
+      "url": "https://support.lemfi.com/hc/en-us/articles/4417235607825-My-recipient-hasn-t-received-the-money",
+      "category": "Send Money",
+      "section": "Transfer Issues",
+      "file_path": "Send_Money\\Transfer_Issues\\My_recipient_hasnt_received_the_money.md",
+      "updated_at": "2026-08-18T04:29:25Z"
+    },
+    {
+      "id": 4417235406737,
+      "title": "Add money from the UK",
+      "url": "https://support.lemfi.com/hc/en-us/articles/4417235406737-Add-money-from-the-UK",
+      "category": "Add Money",
+      "section": "Country-specific funding",
+      "file_path": "Add_Money\\Country_specific_funding\\Add_money_from_the_UK.md",
+      "updated_at": "2026-10-03T17:06:14Z"
+    },
+    {
+      "id": 48456540729105,
+      "title": "I just joined LemFi using a referral code. Do I also get LemFi Cash?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/48456540729105-I-just-joined-LemFi-using-a-referral-code-Do-I-also-get-LemFi-Cash",
+      "category": "LemFi Cash & Referrals",
+      "section": "Referrals",
+      "file_path": "LemFi_Cash_&_Referrals\\Referrals\\I_just_joined_LemFi_using_a_referral_code._Do_I_also_get_LemFi_Cash.md",
+      "updated_at": "2026-07-21T08:35:35Z"
+    },
+    {
+      "id": 48388425185553,
+      "title": "Where can I see my LemFi Cash balance?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/48388425185553-Where-can-I-see-my-LemFi-Cash-balance",
+      "category": "LemFi Cash & Referrals",
+      "section": "LemFi Cash",
+      "file_path": "LemFi_Cash_&_Referrals\\LemFi_Cash\\Where_can_I_see_my_LemFi_Cash_balance.md",
+      "updated_at": "2026-07-06T10:35:24Z"
+    },
+    {
+      "id": 45776460859793,
+      "title": "What payment methods can I use?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45776460859793-What-payment-methods-can-I-use",
+      "category": "Send Money",
+      "section": "Get Started",
+      "file_path": "Send_Money\\Get_Started\\What_payment_methods_can_I_use.md",
+      "updated_at": "2026-04-15T15:18:58Z"
+    },
+    {
+      "id": 45773058701841,
+      "title": "How long does it take to add money?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45773058701841-How-long-does-it-take-to-add-money",
+      "category": "Add Money",
+      "section": "Get Started",
+      "file_path": "Add_Money\\Get_Started\\How_long_does_it_take_to_add_money.md",
+      "updated_at": "2026-04-15T13:58:22Z"
+    },
+    {
+      "id": 41834368539921,
+      "title": "How to keep my account safe",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41834368539921-How-to-keep-my-account-safe",
+      "category": "Login and Security",
+      "section": "Safety and Fraud",
+      "file_path": "Login_and_Security\\Safety_and_Fraud\\How_to_keep_my_account_safe.md",
+      "updated_at": "2026-08-07T20:05:14Z"
+    },
+    {
+      "id": 41708488586257,
+      "title": "Opening a New Currency Wallet",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41708488586257-Opening-a-New-Currency-Wallet",
+      "category": "Global Account",
+      "section": "Add and Manage money",
+      "file_path": "Global_Account\\Add_and_Manage_money\\Opening_a_New_Currency_Wallet.md",
+      "updated_at": "2026-04-16T11:45:55Z"
+    },
+    {
+      "id": 41540284498065,
+      "title": "How are my savings funds protected?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41540284498065-How-are-my-savings-funds-protected",
+      "category": "Savings",
+      "section": "Interest, fees & safety",
+      "file_path": "Savings\\Interest,_fees_&_safety\\How_are_my_savings_funds_protected.md",
+      "updated_at": "2026-04-15T18:54:21Z"
+    },
+    {
+      "id": 41540027400849,
+      "title": "Are There Any Minimum or Maximum Deposit Limits?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41540027400849-Are-There-Any-Minimum-or-Maximum-Deposit-Limits",
+      "category": "Savings",
+      "section": "Get started",
+      "file_path": "Savings\\Get_started\\Are_There_Any_Minimum_or_Maximum_Deposit_Limits.md",
+      "updated_at": "2026-04-15T18:53:35Z"
+    },
+    {
+      "id": 41474796762257,
+      "title": "When Will Points Be Remitted To My Account?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41474796762257-When-Will-Points-Be-Remitted-To-My-Account",
+      "category": "Referral and Rewards",
+      "section": "Rewards",
+      "file_path": "Referral_and_Rewards\\Rewards\\When_Will_Points_Be_Remitted_To_My_Account.md",
+      "updated_at": "2025-12-01T13:19:57Z"
+    },
+    {
+      "id": 41458693689873,
+      "title": "Why can’t I create an account?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41458693689873-Why-can-t-I-create-an-account",
+      "category": "Account and Profile",
+      "section": "Get Started",
+      "file_path": "Account_and_Profile\\Get_Started\\Why_cant_I_create_an_account.md",
+      "updated_at": "2026-10-08T17:08:45Z"
+    },
+    {
+      "id": 15657841655569,
+      "title": "Add money from the US",
+      "url": "https://support.lemfi.com/hc/en-us/articles/15657841655569-Add-money-from-the-US",
+      "category": "Add Money",
+      "section": "Country-specific funding",
+      "file_path": "Add_Money\\Country_specific_funding\\Add_money_from_the_US.md",
+      "updated_at": "2026-06-24T00:43:14Z"
+    },
+    {
+      "id": 4420273923985,
+      "title": "My transfer failed",
+      "url": "https://support.lemfi.com/hc/en-us/articles/4420273923985-My-transfer-failed",
+      "category": "Send Money",
+      "section": "Transfer Issues",
+      "file_path": "Send_Money\\Transfer_Issues\\My_transfer_failed.md",
+      "updated_at": "2026-07-07T05:24:53Z"
+    },
+    {
+      "id": 48456629571857,
+      "title": "Can I add a referral code after signing up?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/48456629571857-Can-I-add-a-referral-code-after-signing-up",
+      "category": "LemFi Cash & Referrals",
+      "section": "Referrals",
+      "file_path": "LemFi_Cash_&_Referrals\\Referrals\\Can_I_add_a_referral_code_after_signing_up.md",
+      "updated_at": "2026-07-06T07:35:49Z"
+    },
+    {
+      "id": 48388467883153,
+      "title": "Why didn't my LemFi Cash apply to my transfer?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/48388467883153-Why-didn-t-my-LemFi-Cash-apply-to-my-transfer",
+      "category": "LemFi Cash & Referrals",
+      "section": "LemFi Cash",
+      "file_path": "LemFi_Cash_&_Referrals\\LemFi_Cash\\Why_didnt_my_LemFi_Cash_apply_to_my_transfer.md",
+      "updated_at": "2026-08-09T18:43:24Z"
+    },
+    {
+      "id": 45781428996497,
+      "title": "Can I cancel or recall a transfer?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45781428996497-Can-I-cancel-or-recall-a-transfer",
+      "category": "Send Money",
+      "section": "Transfer Issues",
+      "file_path": "Send_Money\\Transfer_Issues\\Can_I_cancel_or_recall_a_transfer.md",
+      "updated_at": "2026-05-19T11:13:55Z"
+    },
+    {
+      "id": 45773359185297,
+      "title": "Are there fees to add money?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45773359185297-Are-there-fees-to-add-money",
+      "category": "Add Money",
+      "section": "Get Started",
+      "file_path": "Add_Money\\Get_Started\\Are_there_fees_to_add_money.md",
+      "updated_at": "2026-04-15T13:58:22Z"
+    },
+    {
+      "id": 42317975779089,
+      "title": "Can I send money to another LemFi user?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/42317975779089-Can-I-send-money-to-another-LemFi-user",
+      "category": "Send Money",
+      "section": "Get Started",
+      "file_path": "Send_Money\\Get_Started\\Can_I_send_money_to_another_LemFi_user.md",
+      "updated_at": "2026-05-20T20:28:17Z"
+    },
+    {
+      "id": 41951504284945,
+      "title": "I think I’ve been scammed",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41951504284945-I-think-I-ve-been-scammed",
+      "category": "Login and Security",
+      "section": "Safety and Fraud",
+      "file_path": "Login_and_Security\\Safety_and_Fraud\\I_think_Ive_been_scammed.md",
+      "updated_at": "2026-04-15T12:30:55Z"
+    },
+    {
+      "id": 41709575146257,
+      "title": "How do I add money to my Global account?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41709575146257-How-do-I-add-money-to-my-Global-account",
+      "category": "Global Account",
+      "section": "Add and Manage money",
+      "file_path": "Global_Account\\Add_and_Manage_money\\How_do_I_add_money_to_my_Global_account.md",
+      "updated_at": "2026-04-16T11:22:35Z"
+    },
+    {
+      "id": 41540442653073,
+      "title": "What is the FSCS?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41540442653073-What-is-the-FSCS",
+      "category": "Savings",
+      "section": "Get started",
+      "file_path": "Savings\\Get_started\\What_is_the_FSCS.md",
+      "updated_at": "2026-04-30T14:22:22Z"
+    },
+    {
+      "id": 41474917614353,
+      "title": "How To View Points Paid to My Account",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41474917614353-How-To-View-Points-Paid-to-My-Account",
+      "category": "Referral and Rewards",
+      "section": "Rewards",
+      "file_path": "Referral_and_Rewards\\Rewards\\How_To_View_Points_Paid_to_My_Account.md",
+      "updated_at": "2026-04-16T13:30:36Z"
+    },
+    {
+      "id": 41457896487441,
+      "title": "How To Contact Customer Support",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41457896487441-How-To-Contact-Customer-Support",
+      "category": "Account and Profile",
+      "section": "Contact Support",
+      "file_path": "Account_and_Profile\\Contact_Support\\How_To_Contact_Customer_Support.md",
+      "updated_at": "2026-09-30T23:00:14Z"
+    },
+    {
+      "id": 4417249403665,
+      "title": "Add money from Nigeria",
+      "url": "https://support.lemfi.com/hc/en-us/articles/4417249403665-Add-money-from-Nigeria",
+      "category": "Add Money",
+      "section": "Country-specific funding",
+      "file_path": "Add_Money\\Country_specific_funding\\Add_money_from_Nigeria.md",
+      "updated_at": "2026-04-15T14:08:50Z"
+    },
+    {
+      "id": 48456663606929,
+      "title": "Can I add a referral code before I perform a first transfer?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/48456663606929-Can-I-add-a-referral-code-before-I-perform-a-first-transfer",
+      "category": "LemFi Cash & Referrals",
+      "section": "Referrals",
+      "file_path": "LemFi_Cash_&_Referrals\\Referrals\\Can_I_add_a_referral_code_before_I_perform_a_first_transfer.md",
+      "updated_at": "2026-07-06T07:35:49Z"
+    },
+    {
+      "id": 48388555300625,
+      "title": "Does my LemFi Cash expire?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/48388555300625-Does-my-LemFi-Cash-expire",
+      "category": "LemFi Cash & Referrals",
+      "section": "LemFi Cash",
+      "file_path": "LemFi_Cash_&_Referrals\\LemFi_Cash\\Does_my_LemFi_Cash_expire.md",
+      "updated_at": "2026-07-06T10:41:26Z"
+    },
+    {
+      "id": 45781517777425,
+      "title": "What happens if I enter the wrong beneficiary details?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45781517777425-What-happens-if-I-enter-the-wrong-beneficiary-details",
+      "category": "Send Money",
+      "section": "Transfer Issues",
+      "file_path": "Send_Money\\Transfer_Issues\\What_happens_if_I_enter_the_wrong_beneficiary_details.md",
+      "updated_at": "2026-04-15T18:10:50Z"
+    },
+    {
+      "id": 45776845553809,
+      "title": "What fees will I pay?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45776845553809-What-fees-will-I-pay",
+      "category": "Send Money",
+      "section": "Get Started",
+      "file_path": "Send_Money\\Get_Started\\What_fees_will_I_pay.md",
+      "updated_at": "2026-04-15T15:18:58Z"
+    },
+    {
+      "id": 45773489964305,
+      "title": "Can someone else add money to my account?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45773489964305-Can-someone-else-add-money-to-my-account",
+      "category": "Add Money",
+      "section": "Get Started",
+      "file_path": "Add_Money\\Get_Started\\Can_someone_else_add_money_to_my_account.md",
+      "updated_at": "2026-04-15T13:58:22Z"
+    },
+    {
+      "id": 41710587469585,
+      "title": "What are the Global account limits?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41710587469585-What-are-the-Global-account-limits",
+      "category": "Global Account",
+      "section": "Limits & settings",
+      "file_path": "Global_Account\\Limits_&_settings\\What_are_the_Global_account_limits.md",
+      "updated_at": "2026-04-16T11:29:10Z"
+    },
+    {
+      "id": 41475095907601,
+      "title": "Can I Track My Invitees’ Qualifying Transactions?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41475095907601-Can-I-Track-My-Invitees-Qualifying-Transactions",
+      "category": "Referral and Rewards",
+      "section": "Rewards",
+      "file_path": "Referral_and_Rewards\\Rewards\\Can_I_Track_My_Invitees_Qualifying_Transactions.md",
+      "updated_at": "2025-12-02T13:59:20Z"
+    },
+    {
+      "id": 15688685850129,
+      "title": "Add money from Kenya",
+      "url": "https://support.lemfi.com/hc/en-us/articles/15688685850129-Add-money-from-Kenya",
+      "category": "Add Money",
+      "section": "Country-specific funding",
+      "file_path": "Add_Money\\Country_specific_funding\\Add_money_from_Kenya.md",
+      "updated_at": "2026-04-15T14:10:43Z"
+    },
+    {
+      "id": 48388575744913,
+      "title": "What happens to my LemFi Cash if a transfer is refunded?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/48388575744913-What-happens-to-my-LemFi-Cash-if-a-transfer-is-refunded",
+      "category": "LemFi Cash & Referrals",
+      "section": "LemFi Cash",
+      "file_path": "LemFi_Cash_&_Referrals\\LemFi_Cash\\What_happens_to_my_LemFi_Cash_if_a_transfer_is_refunded.md",
+      "updated_at": "2026-07-06T10:41:52Z"
+    },
+    {
+      "id": 45781543394961,
+      "title": "Do weekends or public holidays affect transfers?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45781543394961-Do-weekends-or-public-holidays-affect-transfers",
+      "category": "Send Money",
+      "section": "Transfer Issues",
+      "file_path": "Send_Money\\Transfer_Issues\\Do_weekends_or_public_holidays_affect_transfers.md",
+      "updated_at": "2026-04-15T18:10:50Z"
+    },
+    {
+      "id": 45773633880721,
+      "title": " Why did my add money payment fail?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/45773633880721--Why-did-my-add-money-payment-fail",
+      "category": "Add Money",
+      "section": "Get Started",
+      "file_path": "Add_Money\\Get_Started\\Why_did_my_add_money_payment_fail.md",
+      "updated_at": "2026-04-15T13:58:22Z"
+    },
+    {
+      "id": 41712142742673,
+      "title": "Where can I send money from my Global Account?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41712142742673-Where-can-I-send-money-from-my-Global-Account",
+      "category": "Global Account",
+      "section": "Send money",
+      "file_path": "Global_Account\\Send_money\\Where_can_I_send_money_from_my_Global_Account.md",
+      "updated_at": "2026-04-16T11:27:38Z"
+    },
+    {
+      "id": 41475283636369,
+      "title": "How do I use my points?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41475283636369-How-do-I-use-my-points",
+      "category": "Referral and Rewards",
+      "section": "Rewards",
+      "file_path": "Referral_and_Rewards\\Rewards\\How_do_I_use_my_points.md",
+      "updated_at": "2026-04-16T13:26:12Z"
+    },
+    {
+      "id": 4417425349521,
+      "title": "What exchange rate will I get?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/4417425349521-What-exchange-rate-will-I-get",
+      "category": "Send Money",
+      "section": "Get Started",
+      "file_path": "Send_Money\\Get_Started\\What_exchange_rate_will_I_get.md",
+      "updated_at": "2026-04-15T15:18:58Z"
+    },
+    {
+      "id": 4417236194577,
+      "title": "Where Will My Referral Bonus Be Paid To?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/4417236194577-Where-Will-My-Referral-Bonus-Be-Paid-To",
+      "category": "Referral and Rewards",
+      "section": "Referrals",
+      "file_path": "Referral_and_Rewards\\Referrals\\Where_Will_My_Referral_Bonus_Be_Paid_To.md",
+      "updated_at": "2026-09-10T07:25:58Z"
+    },
+    {
+      "id": 4417249195921,
+      "title": "Add money from Canada",
+      "url": "https://support.lemfi.com/hc/en-us/articles/4417249195921-Add-money-from-Canada",
+      "category": "Add Money",
+      "section": "Country-specific funding",
+      "file_path": "Add_Money\\Country_specific_funding\\Add_money_from_Canada.md",
+      "updated_at": "2026-04-15T14:07:10Z"
+    },
+    {
+      "id": 48388653874193,
+      "title": "What is happening to my LemFi Points?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/48388653874193-What-is-happening-to-my-LemFi-Points",
+      "category": "LemFi Cash & Referrals",
+      "section": "LemFi Cash",
+      "file_path": "LemFi_Cash_&_Referrals\\LemFi_Cash\\What_is_happening_to_my_LemFi_Points.md",
+      "updated_at": "2026-07-06T10:43:43Z"
+    },
+    {
+      "id": 42301613587857,
+      "title": "What are the minimum and maximum funding limits?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/42301613587857-What-are-the-minimum-and-maximum-funding-limits",
+      "category": "Add Money",
+      "section": "Limits & Issues",
+      "file_path": "Add_Money\\Limits_&_Issues\\What_are_the_minimum_and_maximum_funding_limits.md",
+      "updated_at": "2026-04-15T14:11:43Z"
+    },
+    {
+      "id": 41475411254161,
+      "title": "What Happens If I Use Points on a Transaction That Becomes Unsuccessful?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41475411254161-What-Happens-If-I-Use-Points-on-a-Transaction-That-Becomes-Unsuccessful",
+      "category": "Referral and Rewards",
+      "section": "Rewards",
+      "file_path": "Referral_and_Rewards\\Rewards\\What_Happens_If_I_Use_Points_on_a_Transaction_That_Becomes_Unsuccessful.md",
+      "updated_at": "2025-12-01T13:19:57Z"
+    },
+    {
+      "id": 4417242735505,
+      "title": "Why didn’t I receive my bonus?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/4417242735505-Why-didn-t-I-receive-my-bonus",
+      "category": "Referral and Rewards",
+      "section": "Referrals",
+      "file_path": "Referral_and_Rewards\\Referrals\\Why_didnt_I_receive_my_bonus.md",
+      "updated_at": "2026-09-10T07:26:32Z"
+    },
+    {
+      "id": 48388740196881,
+      "title": "Will I lose my LemFi Points if I don't do anything?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/48388740196881-Will-I-lose-my-LemFi-Points-if-I-don-t-do-anything",
+      "category": "LemFi Cash & Referrals",
+      "section": "LemFi Cash",
+      "file_path": "LemFi_Cash_&_Referrals\\LemFi_Cash\\Will_I_lose_my_LemFi_Points_if_I_dont_do_anything.md",
+      "updated_at": "2026-07-06T07:01:15Z"
+    },
+    {
+      "id": 42318279406865,
+      "title": "How much can I send?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/42318279406865-How-much-can-I-send",
+      "category": "Send Money",
+      "section": "Get Started",
+      "file_path": "Send_Money\\Get_Started\\How_much_can_I_send.md",
+      "updated_at": "2026-06-30T06:30:26Z"
+    },
+    {
+      "id": 41711579525649,
+      "title": "How do I view my account details on my Global account?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41711579525649-How-do-I-view-my-account-details-on-my-Global-account",
+      "category": "Global Account",
+      "section": "Add and Manage money",
+      "file_path": "Global_Account\\Add_and_Manage_money\\How_do_I_view_my_account_details_on_my_Global_account.md",
+      "updated_at": "2026-04-16T11:24:42Z"
+    },
+    {
+      "id": 41475625366673,
+      "title": "Why didn’t I receive points?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41475625366673-Why-didn-t-I-receive-points",
+      "category": "Referral and Rewards",
+      "section": "Rewards",
+      "file_path": "Referral_and_Rewards\\Rewards\\Why_didnt_I_receive_points.md",
+      "updated_at": "2026-04-16T13:29:54Z"
+    },
+    {
+      "id": 48388809567889,
+      "title": "Can I still earn LemFi Points after the migration?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/48388809567889-Can-I-still-earn-LemFi-Points-after-the-migration",
+      "category": "LemFi Cash & Referrals",
+      "section": "LemFi Cash",
+      "file_path": "LemFi_Cash_&_Referrals\\LemFi_Cash\\Can_I_still_earn_LemFi_Points_after_the_migration.md",
+      "updated_at": "2026-07-06T07:01:15Z"
+    },
+    {
+      "id": 41713937399569,
+      "title": "Is There A Fee On Deposits Into My Global Account?",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41713937399569-Is-There-A-Fee-On-Deposits-Into-My-Global-Account",
+      "category": "Global Account",
+      "section": "Add and Manage money",
+      "file_path": "Global_Account\\Add_and_Manage_money\\Is_There_A_Fee_On_Deposits_Into_My_Global_Account.md",
+      "updated_at": "2026-04-16T11:46:40Z"
+    },
+    {
+      "id": 41712427298833,
+      "title": "Downloading A Global Account Statement",
+      "url": "https://support.lemfi.com/hc/en-us/articles/41712427298833-Downloading-A-Global-Account-Statement",
+      "category": "Global Account",
+      "section": "Add and Manage money",
+      "file_path": "Global_Account\\Add_and_Manage_money\\Downloading_A_Global_Account_Statement.md",
+      "updated_at": "2026-05-29T20:19:17Z"
+    }
+  ]
+}

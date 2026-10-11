@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Scraped LemFi support documents (regenerate with: python scripts/scrape_lemfi_support.py)
+# data/documents/raw/  # Committed for reproducibility (course requirement)
